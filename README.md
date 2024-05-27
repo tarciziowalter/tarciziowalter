@@ -1,4 +1,3 @@
-<img src="https://media.giphy.com/media/11KzOet1ElBDz2/giphy.gif" min-width="350px" max-width="350px" width="350px" align="right">
 <h1 align="left">Hi dear, I`m Tarcízio Walter!</h1>
 
 <h3> Navigating life's source code.</h3>
@@ -11,7 +10,7 @@
 ## 🚀 My Tech Stack
 <p align="left">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=php,js,node,express,java,py,laravel,linux,vscode,mysql,postgres,sqlserver,mongodb,html,css,jquery,bootstrap,angular,vue,react,alpinejs" />
+    <img src="https://skillicons.dev/icons?i=php,js,nodejs,express,java,py,laravel,linux,vscode,mysql,postgres,mongodb,html,css,jquery,bootstrap,angular,vue,react,alpinejs" />
   </a>
 </p> 
 
