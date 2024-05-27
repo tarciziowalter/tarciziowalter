@@ -4,7 +4,7 @@
 
 <p align="left">
 • 🎓 Degree in IT at <a href="https://univille.edu.br">Univille</a>.<BR>
-• 🧠 Working in my website <a href="https://tarcizio.dev.br/">tarcizio.dev.br</a>.<BR>
+• 🌐 My website <a href="https://tarcizio.dev.br/">tarcizio.dev.br</a>.<BR>
 </p>
 
 ## 🚀 My Tech Stack
