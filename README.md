@@ -1,16 +1,42 @@
-## Hi there 👋
+<img src="https://media.giphy.com/media/11KzOet1ElBDz2/giphy.gif" min-width="350px" max-width="350px" width="350px" align="right">
+<h1 align="left">Hi dear, I`m Tarcízio Walter!</h1>
 
-<!--
-**tarciziowalter/tarciziowalter** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<h3> Navigating life's source code.</h3>
 
-Here are some ideas to get you started:
+<p align="left">
+• 🎓 Degree in IT at <a href="https://univille.edu.br">Univille</a>.<BR>
+• 🧠 Working in my website <a href="https://tarcizio.dev.br/">tarcizio.dev.br</a>.<BR>
+</p>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🚀 My Tech Stack
+<p align="left">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=php,js,node,express,java,py,laravel,linux,vscode,mysql,postgres,sqlserver,mongodb,html,css,jquery,bootstrap,angular,vue,react,alpinejs" />
+  </a>
+</p> 
+
+## 🛠️ Tools I use on a daily basis
+<p align="left">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=vscode,bash,docker,git,github,postman,discord" /> 
+  </a>
+</p> 
+
+## 📈 Statistics
+
+<div align="left">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=tarciziowalter&exclude_repo=TCC,projeto_raquel&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dark&hide_border=false&order=2" height="150" alt="languages graph"  />
+</div>
+
+## Let's get in touch
+
+<div align="left">
+  <a href="https://www.linkedin.com/in/tarciziowalter/" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="30" alt="linkedin logo"  />
+  </a>
+  <a href="https://api.whatsapp.com/send?phone=5547984224363&text=Ol%C3%A1,%20vim%20atrav%C3%A9s%20do%20seu%20GitHub." target="_blank">
+    <img src="https://img.shields.io/static/v1?message=Whatsapp&logo=whatsapp&label=&color=25D366&logoColor=white&labelColor=&style=for-the-badge" height="30" alt="whatsapp logo"  />
+  </a>
+</div>
+
+###
